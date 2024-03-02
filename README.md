@@ -13,7 +13,7 @@ The primary objective of this project is to analyze IKEA's product data and adve
 * DAX Operations: Data Analysis Expressions (DAX) operations have been performed to create calculated columns, measures, and calculated tables to derive meaningful insights.
 * Visualization: Power BI's visualization tools have been used to create interactive and insightful reports and dashboards.
 * IKEA Product Analysis: The project includes analysis of IKEA's product data, including sales trends, product performance, and customer demographics.
-* Travel & Tourism Adventure Sales: Analysis of adventure sales data in the travel and tourism sector, including revenue analysis, geographical distribution, and customer 
+* Travel & Tourism Analysis: Analysis of adventure sales data in the travel and tourism sector, including revenue analysis, geographical distribution, and customer 
   preferences.
   
 * Insights: The project aims to provide actionable insights that can be used to optimize product offerings, marketing strategies, and sales efforts in both industries.
